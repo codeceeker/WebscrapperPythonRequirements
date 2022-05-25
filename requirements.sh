@@ -11,3 +11,6 @@ pip install streamlit
 # Requests. For accessing website.
 pip install requests
 
+#html5lib
+pip install html5lib
+
