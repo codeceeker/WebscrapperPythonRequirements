@@ -14,3 +14,6 @@ pip install requests
 #html5lib
 pip install html5lib
 
+#lxml
+pip install lxml
+
